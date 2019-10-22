@@ -1,1 +1,1 @@
-
+The RegexCpp.ino program (sketch) will run the battery of tests stored in the UnitTests.h file. The test values (regular expressions and target text) are stored in PROGMEM. This allows the tests to run on an Arduino Uno and similar memory restricted boards. To run on 32 bit boards the PROGMEM modifiers can be removed and the test code greatly simpilfied.
