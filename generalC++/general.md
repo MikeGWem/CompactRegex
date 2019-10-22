@@ -1,1 +1,2 @@
 
+The Vector.h file is required by the Regex class as it uses a vector to store a compiled (tokenised) regular expression. The code in Vector.h is heavily cut back to just the methods required by the Regex class. While additional methods would not have been compiled into the final program this approach meant that there was less code to distract from any review of the project. Any standard implementation of the Vector structure can be substituted.
