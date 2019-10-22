@@ -1,7 +1,7 @@
 # CompactRegex
 A compact Regular Expression in C++ for memory restricted applications.
 
-There is a blog post for background material at 
+There is a blog post for background material at https://practicalarduinoc.blogspot.com/2019/10/arduino-regular-expressions.html
 
 There are versions here for 8 bit (and other) Arduinos and more general C++ applications.
 
