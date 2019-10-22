@@ -23,7 +23,7 @@ but hopefuly enough to meet most needs.
 | . (full stop) | match any character not a line feed (\n) |
 | *  | match zero or more of previous construct |
 | +  | match one or more of previous construct |
-| ?  ! match zero or one of previous construct |
+| ?  | match zero or one of previous construct |
 | [a-z] or [0-9A-H] |match to one or more character ranges |
 | [abcd] | match to any one of a set of characters |
 | [^a-z] | match if not in range (eg. not a to z) |
